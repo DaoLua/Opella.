@@ -1,0 +1,8 @@
+Bước 1: Xóa tất cả files trong folder datalogger (nếu có)
+Bước 2: Upload raw pdf file của data logger lên folder datalogger bằng cách kéo thả hoặc sử dụng nút 'Upload to session storage'
+Bước 3: Chạy đoạn code
+Bước 4: Nhập các thông tin được yêu cầu
+Sau bước này 1 file 'tor_analysis_results.xlsx' được export ở folder datalogger
+Bước 5: Tải file này về máy để nhập liệu vào report
+Bước 6: Kiểm tra ngẫu nhiên số liệu để đảm bảo kết quả chính xác
+Bước 7 (quay về bước 1): Xóa tất cả files trong folder datalogger
